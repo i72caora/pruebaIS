@@ -1,1 +1,3 @@
-Fichero incial para modificar 
+Fichero incial para modificar
+
+Linea 2
