@@ -1,31 +1,27 @@
-**texto negrita**
+##Comandos Ramas III
 
-*cursiva*
+* Almacenar cambios temporales:
 
-* lista 1
-* lista 2 
-* lista 3
-##Comandos Ramas II
+ `git stash save "Mensaje"`
 
-* Ver ramas idénticas a la actual
 
- `git branch --merged`
+* Listar cambios:
 
-* Renombrar ramas:
+ `git stash list`
 
- `git branch -m nombre_antiguo nombre_nuevo`
 
-* Eliminar ramas:
+* Ver contenido de un cambio temporal:
+
+ `git stash show -p nombre_stash`
+
+
+* Eliminar un cambio temporal:
+
+ `git stash drop nombre_stash `
+
+* Aplicar cambios del stash:
 
 ~~~
-git branch -d nombre_rama
-git branch -D nombre_rama
+git stash apply nombre_stash
+git stash pop nombre_stash
 ~~~
-
-* Integrar ramas a la actual:
-
- `git merge nombre_rama`
-
-* Resolver conflictos (se suele hacer manualmente)
-
- `git merge --abort`
