@@ -20,6 +20,8 @@
 * Crear una rama y moverse en un paso:
  `git checkout -b nombre_rama`
 
+
+
 ##Comandos Ramas II
 
 * Ver ramas idénticas a la actual
