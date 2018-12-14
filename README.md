@@ -1,7 +1,1 @@
-<h2>
-  
-```diff
-+ **Nombre:** pani
-```
-
-</h2>
+foo <font color='red'>bar</font> foo
