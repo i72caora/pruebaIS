@@ -1,1 +1,10 @@
-<font color="red">Status: **Not yet implemented**</font>
+<h2>
+
+```diff
+- red
++ green
+! orange
+# gray
+```
+
+</h2>
