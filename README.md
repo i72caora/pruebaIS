@@ -1,1 +1,1 @@
-<font color='red'>hola</font>
+$\color{red}{\text{ciao}}$
