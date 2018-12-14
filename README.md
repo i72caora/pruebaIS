@@ -1,6 +1,1 @@
-```json
-   // code for coloring
-```
-```html
-   // code for coloring
-```
+style="color:orange;">Word up</span>
