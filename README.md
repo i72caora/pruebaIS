@@ -1,8 +1,8 @@
 **Nombre:**
 <h2>
-'''diff
+```diff
 + pani
-'''
+```
 </h2>
 
 **Apellidos:** *pene*
@@ -62,9 +62,9 @@
 
 **Nombre:**
 <h2>
-'''diff
+```diff
 + angel
-'''
+```
 </h2>
 
 **Apellidos:** *ortiz*
@@ -82,20 +82,3 @@
 **Teléfono:** *722119510*
 
 **Grupo:** *1*
-
-
-**Nombre:** *pepe*
-
-**Apellidos:** *perro*
-
-**DNI:** *8012341*
-
-**Fecha:** *3/qww*
-
-**Email:** *pepe@*
-
-**Dirección:** *pepito*
-
-**Curso más alto:** *2*
-
-**Teléfono:** *23232*
