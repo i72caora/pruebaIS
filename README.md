@@ -1,10 +1,3 @@
-**Nombre:**
-<h2>
+hola
 
-
-```diff
- pani
-```
-
-
-</h2>
+adios
