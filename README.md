@@ -1,10 +1,10 @@
+<h2>
 
-**Apellidos: ** *pepe*
+```diff
+- red
++ green
+! orange
+# gray
+```
 
-**DNI: ** *75321*
-
-**Fecha: ** *87/23*
-
-**Email: ** *asd#*
-
-**Dirección:** *232gf*
+</h2>
