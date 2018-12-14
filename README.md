@@ -1,1 +1,1 @@
-$\color{red}{\text{ciao}}$
+\color{red}{\text{ciao}}
