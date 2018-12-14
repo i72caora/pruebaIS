@@ -1,1 +1,1 @@
-foo <font color='red'>bar</font> foo
+<font color="green"> Some green text </font>
