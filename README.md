@@ -1,7 +1,2 @@
 hola
-
-
-
-
-
 adios
