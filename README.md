@@ -7,6 +7,7 @@
 
 
 </h2>
+
 **Apellidos:** *pene*
 
 **DNI:** *75321*
@@ -64,3 +65,57 @@
 **Teléfono:** *305151*
 
 **Grupo:** *-1*
+
+
+&nbsp;
+
+<h2>
+
+
+```diff
++ Nombre: angel
+```
+
+
+</h2>
+
+**Apellidos:** *ortiz*
+
+**DNI:** *1211121*
+
+**Fecha:** *121as*
+
+**Email:** *angel@*
+
+**Dirección:** *libertad*
+
+**Curso más alto:** *2*
+
+**Teléfono:** *722119510*
+
+**Grupo:** *1*
+
+
+&nbsp;
+
+**Nombre:** *pepe*
+
+**Apellidos:** *perro*
+
+**DNI:** *8012341*
+
+**Fecha:** *3/qww*
+
+**Email:** *pepe@*
+
+**Dirección:** *pepito*
+
+**Curso más alto:** *2*
+
+**Teléfono:** *23232*
+
+**Grupo:** *1*
+
+
+&nbsp;
+
