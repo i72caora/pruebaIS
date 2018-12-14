@@ -1,10 +1,10 @@
 <h2>
 
 ```diff
- red
- green
- orange
- gray
+- hola
+- adios
+! orange
+# gray
 ```
 
 </h2>
