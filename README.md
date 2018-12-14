@@ -1,4 +1,13 @@
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
+ 	
+
+Línea 1
+
+ 
+
+&nbsp;
+
+Línea 2
+
+ 
+
+&nbsp;
