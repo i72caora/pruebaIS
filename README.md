@@ -1,5 +1,5 @@
-**Nombre:** <h2>
+<h2>
 ```diff
-+ pani
++ **Nombre:** pani
 ```
 </h2>
